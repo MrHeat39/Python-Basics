@@ -1,0 +1,7 @@
+for number in range(1, 101):
+    print(number)
+print("////////////////////////////////////////////////////////////////////////////////////")
+for character in "yacine":
+    print(character)
+
+    
